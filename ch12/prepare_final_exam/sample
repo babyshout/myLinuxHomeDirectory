@@ -1,0 +1,6 @@
+#! /bin/bash
+#This is BASH scripts program
+
+echo $USER
+echo -n "Current Time : "
+date

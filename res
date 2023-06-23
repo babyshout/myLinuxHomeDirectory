@@ -1,0 +1,47 @@
+합계 70944
+-rw-rw-r-- 1 ubuntu ubuntu        0  4월  3 13:30 1test
+-rw-rw-r-- 1 ubuntu ubuntu        0  4월  3 13:30 Atest7
+-r--r--r-- 1 ubuntu ubuntu 72448981  2월 22 17:33 VMwareTools-10.0.10-4301679.tar.gz
+drwxrwxr-x 6 ubuntu ubuntu     4096  4월  4 10:57 c_study
+drwxrwxr-x 2 ubuntu ubuntu     4096  4월  3 13:34 ch3
+drwxrwxr-x 3 ubuntu ubuntu     4096  4월  3 15:16 ch4
+-rw-r--r-- 1 ubuntu ubuntu    19183  4월  3 13:11 data
+-rw-r--r-- 1 ubuntu ubuntu    19183  4월  3 13:09 data1.cp
+-rw-r--r-- 1 ubuntu ubuntu    19183  3월 27 13:38 data1.ln
+lrwxrwxrwx 1 ubuntu ubuntu        5  4월  3 13:09 data1.sl -> data1
+lrwxrwxrwx 1 ubuntu ubuntu        5  4월  3 13:10 data12.sl -> data1
+-rw-r--r-- 1 ubuntu ubuntu     8980  2월 22 15:23 examples.desktop
+-rw-rw-r-- 1 ubuntu ubuntu      255  3월 27 14:09 exec.txt
+-rw-rw-r-- 1 ubuntu ubuntu      145  3월 27 14:13 exec2.txt
+-rw-rw-r-- 1 ubuntu ubuntu        0  4월  3 13:28 h1234d
+-rw-rw-r-- 1 ubuntu ubuntu        0  4월  3 13:28 had
+-rw-rw-r-- 1 ubuntu ubuntu        0  4월  3 13:28 hard
+-rw-rw-r-- 1 ubuntu ubuntu        0  4월  3 13:28 hd
+-rwxrwxr-x 1 ubuntu ubuntu     8304  3월 27 14:58 hello
+-rw-rw-r-- 1 ubuntu ubuntu       66  3월 27 14:58 hello.c
+-rw-rw-r-- 1 ubuntu ubuntu        0  4월 10 13:03 res
+-rw-rw-r-- 1 ubuntu ubuntu        0  4월  3 13:54 t
+-rw-rw-r-- 1 ubuntu ubuntu        0  4월  3 13:54 t.txt
+-rw-rw-r-- 1 ubuntu ubuntu        0  4월  3 13:54 t1.txt
+-rw-rw-r-- 1 ubuntu ubuntu        0  4월  3 13:54 t2.txt
+-rw-rw-r-- 1 ubuntu ubuntu        0  4월  3 13:54 t3.txt
+-rw-rw-r-- 1 ubuntu ubuntu        0  4월  3 13:54 test
+-rw-rw-r-- 1 ubuntu ubuntu      149  4월  3 13:54 test.txt
+-rw-r--r-- 1 ubuntu ubuntu    19183  4월  3 13:54 test2
+drwxrwxr-x 3 ubuntu ubuntu     4096  4월  3 13:54 test22
+-rw-r--r-- 1 ubuntu ubuntu      226  4월  3 13:54 text1
+drwxrwxr-x 2 ubuntu ubuntu     4096  4월 10 12:58 tmp
+drwxrwxr-x 2 ubuntu ubuntu     4096  4월  3 13:54 tmp1
+-rw-rw-r-- 1 ubuntu ubuntu        0  4월  3 13:54 tmp1.txt
+drwxrwxr-x 2 ubuntu ubuntu     4096  4월  3 13:54 tmp2
+-rw-rw-r-- 1 ubuntu ubuntu        0  4월  3 13:54 tmp3.txt
+-rw-rw-r-- 1 ubuntu ubuntu        0  4월  3 13:54 tmp5.txt
+drwxr-xr-x 9 ubuntu ubuntu     4096  8월 26  2016 vmware-tools-distrib
+drwxr-xr-x 2 ubuntu ubuntu     4096  2월 22 17:04 공개
+drwxr-xr-x 2 ubuntu ubuntu     4096  2월 22 17:04 다운로드
+drwxr-xr-x 2 ubuntu ubuntu     4096  2월 22 17:04 문서
+drwxr-xr-x 2 ubuntu ubuntu     4096  2월 22 17:04 바탕화면
+drwxr-xr-x 2 ubuntu ubuntu     4096  2월 22 17:04 비디오
+drwxr-xr-x 2 ubuntu ubuntu     4096  2월 22 17:04 사진
+drwxr-xr-x 2 ubuntu ubuntu     4096  2월 22 17:04 음악
+drwxr-xr-x 2 ubuntu ubuntu     4096  2월 22 17:04 템플릿
